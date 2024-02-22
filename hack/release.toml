@@ -1,0 +1,11 @@
+# commit to be tagged for the new release
+commit = "HEAD"
+
+project_name = "sidero-test"
+github_repo = "utkuozdemir/sidero-test"
+match_deps = "^github.com/(utkuozdemir/[a-zA-Z0-9-]+)$"
+
+# previous = -
+# pre_release = true
+
+# [notes]
